@@ -17,7 +17,13 @@
   * Nếu cài LDPlayer5 thì chọn "LDPlayer64" như: "D:\LDPlayer\LDPlayer64"
 <img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/b715cc9e-a888-4116-86c7-bd51989efba1" />
 
-### Sau khi cấu hình các bước ở trên xong thì tắt hẳn LDPlayer xong mở lại
+### Sau khi cấu hình các bước ở trên xong thì tắt hẳn tất cả LDPlayer đang mở
+## Cấu hình Giả lập
+- Sau khi tắt tất cả giả lập LDPlayer đang chạy
+- Nhấn phải vào tên giả lập trên Auto chọn [**Cấu hình giả lập**] cho từng giả lập bạn muốn chạy Auto
+<img width="439" height="443" alt="image" src="https://github.com/user-attachments/assets/f288df45-e440-4cb2-baa5-b3002dfca969" />
+
+- Tốt nhất là cấu hình chuẩn 1 tab giả lập chạy được Auto rồi clone từ giả lập đó ra.
 ### Các tab khác có thể clone từ tab đã cấu hình chuẩn ở trên
 
 # CÁC LỖI THƯỜNG GẶP
@@ -38,6 +44,7 @@
 ## Lỗi chạy Auto báo "Giả lập đã chạy"
 - Trường hợp nhấn chạy Auto báo lỗi ["_LDPlayer đã đang chạy rồi!_"] thì click [**Phải**] vào giả lập chọn "**Dừng Auto**" và chạy lại
 <img width="350" height="349" alt="image" src="https://github.com/user-attachments/assets/6a0166e7-a271-4ddc-b7ac-603de50718af" />
+
 
 
 
