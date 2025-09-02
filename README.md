@@ -13,7 +13,7 @@
 
 - Chọn [**Advanced**] ở tiếng Anh hoặc [**Cao cấp**] ở tiếng Việt
 - Chọn [**Mobile mode**] ở tiếng Anh hoặc [**Di động**] ở tiếng Việt
-- Chọn [540x960(dpi 240)]
+- Chọn [**540x960(dpi 240)**]
 <img width="605" height="488" alt="image" src="https://github.com/user-attachments/assets/23ac0109-6713-476a-86a0-70fa779bfd59" />
 
 ### Cấu hình ADB
@@ -51,6 +51,7 @@
 ## Lỗi không hiển thị danh sách các tab giả lập trên Auto
 - Lỗi này thường bị khi bạn cấu hình [Đường dẫn LDPlayer9](https://github.com/HuynhDat007/ToolHelper?tab=readme-ov-file#c%E1%BA%A5u-h%C3%ACnh-%C4%91%C6%B0%E1%BB%9Dng-d%E1%BA%ABn-ldplayer) chưa đúng
 - Thử cấu hình lại [**Đường dẫn LDPlayer9**] thử
+
 
 
 
