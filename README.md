@@ -37,7 +37,8 @@
 - Nhấn [**Chọn**] ở dòng "_Đường dẫn XuanZhi9_"
 - Chọn folder(thư mục) chứa **XuanZhi**
   * Nếu cài LDPlayer9 thì chọn "XuanZhi9" như: "C:\Users\XXXX\Documents\XuanZhi9"
-  * Nếu cài LDPlayer5 thì chọn "XuanZhi64" như: "C:\Users\XXXX\Documents\XuanZhi9"
+  * Nếu cài LDPlayer5 thì chọn "XuanZhi64" như: "C:\Users\XXXX\Documents\XuanZhi64"
 ### Sau khi cấu hình các bước ở trên xong thì tắt hẳn LDPlayer xong mở lại
 ### Các tab khác có thể clone từ tab đã cấu hình chuẩn ở trên
+
 
