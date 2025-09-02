@@ -50,7 +50,8 @@
 - Mở "**LDMultiPlayer**" đổi tên các tab giả lập, đổi như 1, 2, 3, 4,... cho các tab sau đó đổi lại tên bạn muốn sau
 ## Lỗi không hiển thị danh sách các tab giả lập trên Auto
 - Lỗi này thường bị khi bạn cấu hình [Đường dẫn LDPlayer9](https://github.com/HuynhDat007/ToolHelper?tab=readme-ov-file#c%E1%BA%A5u-h%C3%ACnh-%C4%91%C6%B0%E1%BB%9Dng-d%E1%BA%ABn-ldplayer) chưa đúng
-- Thử cấu hình lại [**Đường dẫn LDPlayer9**] thử
+- Thử cấu hình lại [**Đường dẫn LDPlayer9**]
+
 
 
 
