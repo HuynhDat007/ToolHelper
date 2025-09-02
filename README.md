@@ -41,4 +41,13 @@
 ### Sau khi cấu hình các bước ở trên xong thì tắt hẳn LDPlayer xong mở lại
 ### Các tab khác có thể clone từ tab đã cấu hình chuẩn ở trên
 
+# CÁC LỖI THƯỜNG GẶP
+## Lỗi "Game chưa mở"
+- Trường hợp khi nhấn bắt đầu chạy Auto thì xuất hiện thông báo "Game chưa mở" thì tắt hẳn LDPlayer rồi mở lại và thử lại
+- Nếu vẫn lỗi thì reset máy tính và thử lại
+## Lỗi không hiển thị hết các tab LDPlayer
+- Mở "**LDMultiPlayer**" đổi tên các tab giả lập, đổi như 1, 2, 3, 4,... cho các tab sau đó đổi lại tên bạn muốn sau
+## Lỗi không hiển thị danh sách các tab giả lập trên Auto
+- Lỗi này thường bị khi bạn cấu hình [Đường dẫn LDPlayer9](https://github.com/HuynhDat007/ToolHelper/edit/main/README.md#c%E1%BA%A5u-h%C3%ACnh-%C4%91%C6%B0%E1%BB%9Dng-d%E1%BA%ABn-ldplayer) chưa đúng
+- Thử cấu hình lại [**Đường dẫn LDPlayer9**] thử
 
