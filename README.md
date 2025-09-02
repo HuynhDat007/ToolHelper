@@ -11,15 +11,15 @@
 - Vào [**Cài đặt**] của LDPlayer
 <img width="801" height="459" alt="image" src="https://github.com/user-attachments/assets/5fb7693e-e109-4d4f-bc9c-8d4e7793dc7d" />
 
-- Chọn [**Advanced**] hoặc []
-- Chọn [**Mobile mode**]
+- Chọn [**Advanced**] ở tiếng Anh hoặc [**Cao cấp**] ở tiếng Việt
+- Chọn [**Mobile mode**] ở tiếng Anh hoặc [**Di động**] ở tiếng Việt
 - Chọn [540x960(dpi 240)]
 <img width="605" height="488" alt="image" src="https://github.com/user-attachments/assets/23ac0109-6713-476a-86a0-70fa779bfd59" />
 
 ### Cấu hình ADB
-- Vào [**Other settings**]
-- Ở [**Root permission**] chọn "_Enable_"
-- Ở [**ADB debugging**] chọn "_Open local connection_"
+- Vào [**Other settings**] ở tiếng Anh hoặc [**Khác**] ở tiếng Việt
+- Ở [**Root permission**] chọn "_Enable_" hoặc [**Quyền Root**] chọn "_Bật_" ở tiếng Việt
+- Ở [**ADB debugging**] chọn "_Open local connection_" hoặc [**Debug ADB**] chọn "_Bật kết nối local_" ở tiếng Việt
 <img width="605" height="488" alt="image" src="https://github.com/user-attachments/assets/ecdbc00f-701b-48e6-beb0-f17b731b3df9" />
 
 ## Cấu hình trong Auto
@@ -50,5 +50,6 @@
 ## Lỗi không hiển thị danh sách các tab giả lập trên Auto
 - Lỗi này thường bị khi bạn cấu hình [Đường dẫn LDPlayer9](https://github.com/HuynhDat007/ToolHelper?tab=readme-ov-file#c%E1%BA%A5u-h%C3%ACnh-%C4%91%C6%B0%E1%BB%9Dng-d%E1%BA%ABn-ldplayer) chưa đúng
 - Thử cấu hình lại [**Đường dẫn LDPlayer9**] thử
+
 
 
