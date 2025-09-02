@@ -27,7 +27,7 @@
 - Trường hợp khi nhấn bắt đầu chạy Auto thì xuất hiện thông báo "**Game chưa mở**" thì tắt hẳn LDPlayer rồi mở lại và thử lại
 - Nếu vẫn lỗi thì reset máy tính và thử lại
 ## Lỗi không hiển thị hết các tab LDPlayer
-- Mở "**LDMultiPlayer**" đổi tên các tab giả lập, đổi như 1, 2, 3, 4,... cho các tab sau đó đổi lại tên bạn muốn sau
+- Mở "**LDMultiPlayer**" đổi tên các tab giả lập, đổi thành 1, 2, 3, 4,... cho các tab sau đó đổi lại tên sau nếu bạn muốn.
 <img width="736" height="556" alt="image" src="https://github.com/user-attachments/assets/fec7c154-b44b-4d72-b799-bb6fdb85a3e7" />
 
 ## Lỗi không hiển thị danh sách các tab giả lập trên Auto
@@ -38,6 +38,7 @@
 ## Lỗi chạy Auto báo "Giả lập đã chạy"
 - Trường hợp nhấn chạy Auto báo lỗi ["_LDPlayer đã đang chạy rồi!_"] thì click [**Phải**] vào giả lập chọn "**Dừng Auto**" và chạy lại
 <img width="350" height="349" alt="image" src="https://github.com/user-attachments/assets/6a0166e7-a271-4ddc-b7ac-603de50718af" />
+
 
 
 
