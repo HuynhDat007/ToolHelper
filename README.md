@@ -20,6 +20,7 @@
 - Vào [**Other settings**] ở tiếng Anh hoặc [**Khác**] ở tiếng Việt
 - Ở [**Root permission**] chọn "_Enable_" hoặc [**Quyền Root**] chọn "_Bật_" ở tiếng Việt
 - Ở [**ADB debugging**] chọn "_Open local connection_" hoặc [**Debug ADB**] chọn "_Bật kết nối local_" ở tiếng Việt
+- Cấu hình xong thì chọn [**Save settings**] hoặc [**Lưu**] ở tiếng Việt
 <img width="605" height="488" alt="image" src="https://github.com/user-attachments/assets/ecdbc00f-701b-48e6-beb0-f17b731b3df9" />
 
 ## Cấu hình trong Auto
@@ -50,6 +51,7 @@
 ## Lỗi không hiển thị danh sách các tab giả lập trên Auto
 - Lỗi này thường bị khi bạn cấu hình [Đường dẫn LDPlayer9](https://github.com/HuynhDat007/ToolHelper?tab=readme-ov-file#c%E1%BA%A5u-h%C3%ACnh-%C4%91%C6%B0%E1%BB%9Dng-d%E1%BA%ABn-ldplayer) chưa đúng
 - Thử cấu hình lại [**Đường dẫn LDPlayer9**] thử
+
 
 
 
