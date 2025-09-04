@@ -51,7 +51,11 @@
 ## Lỗi chạy Auto báo "Giả lập đã chạy"
 - Trường hợp nhấn chạy Auto báo lỗi ["_LDPlayer đã đang chạy rồi!_"] thì click [**Phải**] vào giả lập chọn "**Dừng Auto**" và chạy lại
 <img width="350" height="349" alt="image" src="https://github.com/user-attachments/assets/6a0166e7-a271-4ddc-b7ac-603de50718af" />
+ 
+## Lỗi "Lỗi cấu hình đường dẫn LDPlayer, thử tắt mở lại LDPlayer và cấu hình lại 'Đường dẫn LDPLayer9'"
+<img width="432" height="133" alt="image" src="https://github.com/user-attachments/assets/c8a03472-262b-42ea-acc4-fbf09bde867d" />
 
+- Chọn lại [**Đường dẫn LDPlayer9**]
 
 
 
