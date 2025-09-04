@@ -11,6 +11,8 @@
 - Link tải [Auto](https://github.com/HuynhDat007/ToolHelper/releases/download/GameHiepKhach/GameHiepKhach.zip)
 - Tải và giải nén ra(_giải nén là bắt buộc_)
 - Chạy file [**GameTool**]
+<img width="854" height="372" alt="image" src="https://github.com/user-attachments/assets/1eeac3d4-8e95-4208-a97d-4ac2114e5c86" />
+
 ### Cấu hình Đường dẫn LDPlayer
 - Vào [**Cấu hình**]
 - Nhấn [**Chọn**] ở dòng "_Đường dẫn LDPlayer9_"
@@ -49,6 +51,7 @@
 ## Lỗi chạy Auto báo "Giả lập đã chạy"
 - Trường hợp nhấn chạy Auto báo lỗi ["_LDPlayer đã đang chạy rồi!_"] thì click [**Phải**] vào giả lập chọn "**Dừng Auto**" và chạy lại
 <img width="350" height="349" alt="image" src="https://github.com/user-attachments/assets/6a0166e7-a271-4ddc-b7ac-603de50718af" />
+
 
 
 
