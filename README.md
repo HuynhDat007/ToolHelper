@@ -33,12 +33,6 @@
 ### Các tab khác có thể clone từ tab đã cấu hình chuẩn ở trên
 
 # CÁC LỖI THƯỜNG GẶP
-## Lỗi "Game chưa mở"
-<img width="439" height="931" alt="image" src="https://github.com/user-attachments/assets/0d5e0ddf-fe89-4030-9fd2-283b7c2148b1" />
-
-- Trường hợp khi nhấn bắt đầu chạy Auto thì xuất hiện thông báo "**Game chưa mở**" thì tắt hẳn LDPlayer rồi mở lại và thử lại
-- Nếu vẫn lỗi thì reset máy tính và thử lại
-- Nếu tab LDPlayer đó không chạy auto được nhưng tab khác thì chạy được thì xóa tab không chạy được đó và clone ra từ tab đã chạy được
 ## Lỗi không hiển thị hết các tab LDPlayer
 - Mở "**LDMultiPlayer**" đổi tên các tab giả lập, đổi thành 1, 2, 3, 4,... cho các tab sau đó đổi lại tên sau nếu bạn muốn.
 <img width="736" height="556" alt="image" src="https://github.com/user-attachments/assets/fec7c154-b44b-4d72-b799-bb6fdb85a3e7" />
@@ -51,11 +45,7 @@
 ## Lỗi chạy Auto báo "Giả lập đã chạy"
 - Trường hợp nhấn chạy Auto báo lỗi ["_LDPlayer đã đang chạy rồi!_"] thì click [**Phải**] vào giả lập chọn "**Dừng Auto**" và chạy lại
 <img width="350" height="349" alt="image" src="https://github.com/user-attachments/assets/6a0166e7-a271-4ddc-b7ac-603de50718af" />
- 
-## Lỗi "Lỗi cấu hình đường dẫn LDPlayer, thử tắt mở lại LDPlayer và cấu hình lại 'Đường dẫn LDPLayer9'"
-<img width="432" height="133" alt="image" src="https://github.com/user-attachments/assets/c8a03472-262b-42ea-acc4-fbf09bde867d" />
 
-- Chọn lại [**Đường dẫn LDPlayer9**]
 
 
 
