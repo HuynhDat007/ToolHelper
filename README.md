@@ -46,6 +46,12 @@
 - Trường hợp nhấn chạy Auto báo lỗi ["_LDPlayer đã đang chạy rồi!_"] thì click [**Phải**] vào giả lập chọn "**Dừng Auto**" và chạy lại
 <img width="350" height="349" alt="image" src="https://github.com/user-attachments/assets/6a0166e7-a271-4ddc-b7ac-603de50718af" />
 
+## Lỗi Dis Auto 
+<img width="1302" height="498" alt="image" src="https://github.com/user-attachments/assets/f144f4e4-9118-42ca-b359-f96a952938ba" />
+
+- Lỗi này do chạy Auto tab giả lập chưa "**Cấu hình giả lập**"
+- Thực hiện "**Cấu hình giả lập**" lại cho các tab cần chạy Auto 
+- Nên Tắt hết các tab giả lập rồi thực hiện cấu hình
 
 
 
